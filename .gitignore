@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+predict label/
+*.csv
+*.txt
+*.json
